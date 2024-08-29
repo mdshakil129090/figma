@@ -1,0 +1,391 @@
+
+/**xxl device and up**/
+@media (max-width:2560px)  {
+    .f_content_i i {
+        font-size: 50px;
+        margin-top: 6px;
+    }
+
+
+}
+@media (max-width:1399px)  {
+    .nav_bar ul li {
+       
+        padding: 15px 12px;
+    }
+    .hire_content {
+        margin-top: 15%;
+        max-width: 87%;
+    }
+    /* portfolio part */
+    .img_text h1 {
+   
+        font-size: 45px;
+        
+    }
+    .middle_port {
+        width: 59%;
+        
+    }
+    .last_port {
+        
+        width: 63%;
+    
+    }
+    
+  
+}
+/**xl device and up**/
+@media (max-width:1199px)  {
+    .logo img {
+        width: 88%;
+    }
+    .nav_bar ul li {
+        font-size: 18px;
+        padding: 15px 4px;
+        
+    }
+    .logo {
+        height: 100%;
+        margin: 0;
+    }
+    .banner {
+       
+        height: 100%;
+        padding-bottom: 60px;
+    }
+    .hire_img {
+        position: absolute;
+        bottom: 0;
+    }
+    .hire_img_col{
+        position: relative;
+    }
+    .hire_content {
+        margin-top: 6%;
+        max-width: 100%;
+        padding-bottom: 9%;
+    }
+    .hire_content_top h1 {
+        
+        font-size: 50px;
+    }
+/* portfolio part */
+.up_port h1 {
+    font-size: 50px;
+    width: 76%;
+}
+
+
+
+   
+
+}
+/**lg device and up**/
+@media (max-width:991px)  {
+    .container-fluid {
+        padding: 0;
+        background: none;
+        color: black;
+        border: none;
+       
+    }
+    .nav_bar ul li a {
+        color: black !important;
+       
+    }
+    .logo {
+       
+        display: none;
+    }
+        
+    
+    .nav_bar {
+        padding: 0;
+    }
+    .navbar-toggler {
+        margin: auto;
+    }
+    .port {
+       
+        width: 266px;
+        
+        bottom: 4PX;
+       
+    }
+    .port_custom {
+        
+        padding: 9px 6px;
+       
+    }
+    .banner p {
+        text-align: center;
+        padding: 0px 48px;
+        margin: 30px 0;
+    }
+
+    .banner {
+       
+        height: 100%;
+        padding-bottom: 60px;
+    }
+    .banner h1 {
+        text-align: center;
+        margin: 46px 0;
+    }
+    .experince_data {
+        text-align: center;
+        
+    }
+    .experince_data ul li {
+        
+        height: 135px;
+    }
+    .experince_img {
+        
+        max-height: 30vh;
+    }
+    .experince_img img {
+        
+        margin: auto;
+    }
+    .floop_hire {
+        width: 8%;
+    }
+    .hire_con_col {
+        width: 50%;
+    }
+    .hire_content_middle {
+       
+        width: 50%;
+    }
+    .hire_content_top p {
+        width: 98%;
+        padding: 15px 0px;
+        
+    }
+    .img-fluid {
+        max-width: 110%;
+        height: auto;
+    }
+    .hire_content_top h1 {
+        font-size: 40px;
+    }
+    .hire_content_middle h3 {
+        font-size: 30px;
+        
+    }
+    .hire_content button {
+        
+        padding: 11px 30px;
+        
+        font-size: 22px;
+        
+    }
+    .hire_section {
+        
+        padding: 70px 0 0 0;
+        
+    }
+    
+
+
+    
+   
+    
+
+    
+   
+    
+
+
+}
+/**md device and up**/
+@media (max-width:767px)  {
+    
+    .port {
+       
+        width: 216px;
+        background: #21252952;
+        left: 50%;
+        bottom: 4PX;
+       
+        padding: 13px 7px;
+    }
+    .port ul li a {
+       
+        font-size: 20px;
+        color: white;
+    }
+    .banner_col {
+        width: 100%;
+    }
+    .banner {
+       
+        height: 100%;
+        padding-bottom: 60px;
+    }
+    .banner h1 {
+        text-align: center;
+        margin: 46px 0 0px 0;
+    }
+    .banner_img {
+        
+        margin-top: 50px;
+    }
+    .experince_data ul li p {
+        font-size: 20px;
+        
+        margin-top: 3px;
+    }
+    .experince_data ul li {
+        height: 100px;
+    }
+    .experince_data ul li h3 {
+        
+        font-size: 30px;
+    }
+        
+        .experince h1 {
+            padding: 30px 0;
+            text-transform: capitalize;
+            font-size: 45px;
+        }
+        .experince_data_2 ul li {
+            height: 120px !important;
+        }
+        .hire_img {
+            position: relative;
+            
+        }
+        .hire_con_col {
+            width: 90%;
+        }
+        .img-fluid {
+            max-width: 100%;
+            
+        }
+    
+
+     
+        
+        
+ 
+
+   
+    
+
+}
+/**sm device and up**/
+@media (max-width:575px)  {
+    .port {
+       
+        width: 205px;
+        background: #21252952;
+        left: 50%;
+        bottom: 4PX;
+       
+        padding: 13px 7px;
+    }
+    .port ul li a {
+        font-size: 18px;
+        color: white;
+    }
+    .banner {
+       
+        height: 100%;
+        padding-bottom: 60px;
+    }
+    .experince_data_2 ul li {
+        height: 140px !important;
+    }
+}
+
+ 
+
+
+
+/**xsm device and up**/
+@media (max-width:425px)  {
+    .port {
+        width: 180px;
+        background: #21252952;
+        left: 50%;
+        bottom: -10PX;
+        padding: 13px 7px;
+    }
+    .port ul li a {
+        font-size: 16px;
+        color: white;
+    }
+    .banner {
+       
+        height: 100%;
+        padding-bottom: 60px;
+    }
+    .experince_data ul li h3 {
+        font-size: 25px;
+    }
+    .experince h1 {
+        padding: 30px 0;
+        text-transform: capitalize;
+        font-size: 35px;
+    }
+    .experince_data ul li {
+        height: 82px;
+    }
+
+
+    
+
+ 
+
+}
+/**col device and up**/
+@media (max-width:375px)  {
+    .port {
+        width: 173px;
+        background: #21252952;
+        left: 50%;
+        bottom: -10PX;
+        padding: 9px 7px;
+    }
+    
+        .port_custom {
+            padding: 4px 6px;
+        }
+        .banner {
+       
+            height: 100%;
+            padding-bottom: 60px;
+        }
+        .experince_data_2 ul li {
+            height: 156px !important;
+        }
+        .experince_data ul li {
+            height: 73px;
+        }
+        .experince_data ul li p {
+            font-size: 16px;
+            margin-top: 3px;
+        }
+        .experince_data ul li h3 {
+            font-size: 20px;
+        }
+        .experince h1 {
+            padding: 27px 0;
+            text-transform: capitalize;
+            font-size: 30px;
+        }
+
+   
+
+}
+@media (max-width:320px)  {
+    .banner {
+       
+        height: 100%;
+        padding-bottom: 60px;
+    }
+  
+}
